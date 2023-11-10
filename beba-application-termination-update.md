@@ -113,6 +113,9 @@
 
 ---
 
+## Screen recoding of the application
+<video src='[video1.mov](https://github.com/developerssolutionsapps/gists/blob/main/1part-one-home.mp4)' width=180/> | <video src=['video2.mp4](https://github.com/developerssolutionsapps/gists/blob/main/2part-two-home.mp4)' width=180/>
+
 ## Images
 
 | Image 1 | Image 2 | Image 3 |
